@@ -9,7 +9,7 @@ This website was live for sometime on netlify till it was free.
     a.this is the picture in light mode
         ![image](https://github.com/user-attachments/assets/15be845e-9968-4f08-9e9a-ddb58501def9)
 
-     b.  this is the picture in dark mode
+   b. this is the picture in dark mode
         ![image](https://github.com/user-attachments/assets/04b72d53-13ca-4c51-899b-789e1d749568)
    
 4. In the compiler option we can work on code in language after selecting it
