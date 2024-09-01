@@ -1,6 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This website was live for sometime on netlify till it was free.
+1. This is the home page of the website 
+   ![image](https://github.com/user-attachments/assets/16641dac-c154-4aeb-8161-ff94aae4b3b8)
+   
+2.We can solve the question in more than 16 Languages 
+   ![image](https://github.com/user-attachments/assets/1e420d55-c38d-4fa1-8af8-0ef800386768)
+   
+3.Here we have also implemented the feature of Dark Mode in it, so when ever we click on it the background changges to black colour
+    a.this is the picture in light mode
+        ![image](https://github.com/user-attachments/assets/15be845e-9968-4f08-9e9a-ddb58501def9)
 
-![image](https://github.com/user-attachments/assets/16641dac-c154-4aeb-8161-ff94aae4b3b8)
+     b.  this is the picture in dark mode
+        ![image](https://github.com/user-attachments/assets/04b72d53-13ca-4c51-899b-789e1d749568)
+   
+4. In the compiler option we can work on code in language after selecting it
+   ![image](https://github.com/user-attachments/assets/4edac9c8-a135-4473-97df-ac02846fb69d)
+   
+5.  Here in the problem section we can find al the problems that we have solved in it and all the questions that are present there and we can solve it
+   ![image](https://github.com/user-attachments/assets/26a44847-88fc-4b57-ac1d-6afda7f2412b)
+
+
+
+ 
+
+
+
 
 
 ## Getting Started
